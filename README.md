@@ -1,0 +1,2 @@
+# Python-Trigonometric-Graphs-Projectile-Calculations-Matplotlib
+This repository features Python scripts that utilize trigonometric functions and matplotlib to visualize projectile motion calculations. Explore interactive graphs depicting trajectories of projectiles launched at varying angles and velocities. An educational resource for studying trigonometric graphs and fundamental physics concepts.
